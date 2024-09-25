@@ -15,7 +15,7 @@ author    = {Ian Pons,
 Bruno Yamamoto,
 Anna H. Reali Costa and
 Artur Jordao},
-title     = {Eective Layer Pruning Through Similarity Metric Perspective},
+title     = {Effective Layer Pruning Through Similarity Metric Perspective},
 booktitle = {International Conference on Pattern Recognition (ICPR).},
 year = {2024},
 }
