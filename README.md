@@ -1,4 +1,4 @@
-# Effective-Layer-Pruning (IPCR-2024 Oral Presentation)
+# Effective-Layer-Pruning (ICPR-2024 Oral Presentation)
 
 This repository provides code examples of our CKA criterion for layer pruning, including some of our pruned models. <br />
 
